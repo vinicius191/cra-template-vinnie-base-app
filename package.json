@@ -7,6 +7,7 @@
     "template"
   ],
   "description": "Base template for a clean App using Create React App.",
+  "main": "template.json",
   "license": "MIT",
   "engines": {
     "node": ">=10"
