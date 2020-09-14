@@ -1,0 +1,9 @@
+{
+    "package": {
+      "dependencies": {
+        "react-redux": "^7.2.1",
+        "redux": "^4.0.5",
+        "axios": "^0.20.0",
+      }
+    }
+  }
