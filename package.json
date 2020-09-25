@@ -1,6 +1,6 @@
 {
   "name": "cra-template-vinnie-base-app",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "keywords": [
     "react",
     "create-react-app",
@@ -18,5 +18,9 @@
   "files": [
     "template",
     "template.json"
-  ]
+  ],
+  "dependencies": {
+    "redux-thunk": "^2.3.0",
+    "thunk": "0.0.1"
+  }
 }
