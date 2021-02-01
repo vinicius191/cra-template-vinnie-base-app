@@ -5,7 +5,7 @@ Super basic template for [Create React App](https://github.com/facebook/create-r
 ## Installation
 
 ```
-npx create-react-app cra-template-vinnie-base-app
+npx create-react-app [app_name] --template cra-template-vinnie-base-app
 ```
 
 ## About
